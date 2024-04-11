@@ -1,6 +1,6 @@
 # Bergen-Bysykkel Map
 
-This is a simple web application that shows the location of the Bergen Bysykkel stations on a map. The application is built using the [Leaflet](https://leafletjs.com/) library for the map and the [Bergen Bysykkel API](https://bergenbysykkel.no/apne-data/sanntid) for the station data.
+This is a simple web application that shows the location of the Bergen Bysykkel stations on a map. The application is built using the [Leaflet](https://leafletjs.com/) library for the map and is using [Bergen Bysykkel open data](https://bergenbysykkel.no/apne-data/sanntid) for the station data.
 
 <div align="center">
     <img src="images/city-bike.png" alt="Bysykkel Map" width="700">
